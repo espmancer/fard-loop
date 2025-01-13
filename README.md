@@ -50,6 +50,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - Makefile - [Makefile](https://www.gnu.org/software/make/manual/make.html)
 - .mli - [OCaml](https://ocaml.org/)
 - .mysql - [MySQL](https://www.mysql.com/)
+- .md - Pseudocode according to [Cal Poly](https://users.csc.calpoly.edu/~jdalbey/SWE/pdl_std.html)
 - .nim - [Nim](https://en.wikipedia.org/wiki/Nim_(programming_language))
 - .oi - [Oiseau](https://github.com/AshPixel/Oiseau)
 - .ook - [Ook](https://www.dangermouse.net/esoteric/ook.html)
