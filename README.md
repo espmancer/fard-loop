@@ -13,6 +13,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .bas - [BASIC](https://en.wikipedia.org/wiki/BASIC)
 - .bat - [Batch](https://en.wikipedia.org/wiki/Batch_file)
 - .be - [Befunge](https://github.com/SystemFw/Befunge-93)
+- .ben - [Benf\*ck](https://github.com/Craftyman6/BenFuck)
 - .bf - [Brainf\*ck](https://en.m.wikipedia.org/wiki/Brainfuck)
 - .brat - [Brat](https://github.com/presidentbeef/brat)
 - .c - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)
@@ -85,4 +86,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 
 ## Language Counter
-75 Programming Languages - All which infinitely loop fard (*sigh*)
+76 Programming Languages - All which infinitely loop fard (*sigh*)
