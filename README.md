@@ -39,6 +39,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - .hs - [Haskell](https://en.wikipedia.org/wiki/Haskell)
 - .hx - [Haxe](https://en.wikipedia.org/wiki/Haxe)
 - .ino - [Arduino](https://www.arduino.cc/)
+- .inform - [Inform](https://ganelson.github.io/inform-website/)
 - .ipynb - [Jupyter Notebook](https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook)
 - .java - [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - .jl - [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language))
