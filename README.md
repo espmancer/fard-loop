@@ -83,5 +83,5 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - [.ZOMBIE](https://github.com/espmancer/fard-loop/blob/main/fard.ZOMBIE) - [ZOMBIE](https://www.dangermouse.net/esoteric/zombie.html)  
 
 ## Language Counter
-This was counted using the command `git ls-files | wc -l` and subtracting 1 (for README), found [here](https://stackoverflow.com/questions/9468970/how-to-get-a-count-of-all-the-files-in-a-git-repository). 
+This was counted using the command `git ls-files | wc -l` and subtracting 1 (for README), found [here](https://stackoverflow.com/questions/9468970/how-to-get-a-count-of-all-the-files-in-a-git-repository).  
 81 Programming Languages - All which infinitely loop fard (*sigh*)
