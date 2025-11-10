@@ -1,0 +1,8 @@
+"fard" by espmancer
+
+The Infinite Room of Fards is a room. In the Infinite Room of Fards is an Infinite Container of Fards. 
+The Infinite Container of Fards is a container that is fixed in place, openable, and closed. The description is "DO NOT OPEN!"
+
+Instead of opening the Infinite Container of Fards:
+	while 1 is 1:
+		say "fard[line break]".
