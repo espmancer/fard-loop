@@ -85,4 +85,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 ## Language Counter
 This was counted using the command `git ls-files | wc -l` and subtracting 1 (for README), found [here](https://stackoverflow.com/questions/9468970/how-to-get-a-count-of-all-the-files-in-a-git-repository).  
-81 Programming Languages - All which infinitely loop fard (*sigh*)
+82 Programming Languages - All which infinitely loop fard (*sigh*)
