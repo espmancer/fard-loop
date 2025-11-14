@@ -78,7 +78,8 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - [.ts](https://github.com/espmancer/fard-loop/blob/main/fard.ts) - [TypeScript](https://en.wikipedia.org/wiki/TypeScript)  
 - [.um](https://github.com/espmancer/fard-loop/blob/main/fard.um) - [Umka](https://github.com/vtereshkov/umka-lang)  
 - [.vb](https://github.com/espmancer/fard-loop/blob/main/fard.vb) - [Visual Basic](https://en.wikipedia.org/wiki/Visual_Basic_.NET)  
-- [.vi](https://github.com/espmancer/fard-loop/blob/main/fard.vi) - [LabVIEW](https://www.ni.com/en/support/downloads/software-products/download.labview.html#544096)  
+- [.vi](https://github.com/espmancer/fard-loop/blob/main/fard.vi) - [LabVIEW](https://www.ni.com/en/support/downloads/software-products/download.labview.html#544096)
+- [.ws](https://github.com/espmancer/fard-loop/blob/main/fard.ws) - [Whitespace](https://en.wikipedia.org/wiki/Whitespace_(programming_language))
 - [.zig](https://github.com/espmancer/fard-loop/blob/main/fard.zig) - [Zig](https://ziglang.org/)  
 - [.ZOMBIE](https://github.com/espmancer/fard-loop/blob/main/fard.ZOMBIE) - [ZOMBIE](https://www.dangermouse.net/esoteric/zombie.html)  
 
