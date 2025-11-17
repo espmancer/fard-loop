@@ -55,7 +55,8 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - [.ook](https://github.com/espmancer/fard-loop/blob/main/fard.ook) - [Ook](https://www.dangermouse.net/esoteric/ook.html)  
 - [.pas](https://github.com/espmancer/fard-loop/blob/main/fard.pas) - [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))  
 - [.php](https://github.com/espmancer/fard-loop/blob/main/fard.php) - [PHP](https://en.wikipedia.org/wiki/PHP)  
-- [.pl](https://github.com/espmancer/fard-loop/blob/main/fard.pl) - [Perl](https://en.wikipedia.org/wiki/Perl)  
+- [.pl](https://github.com/espmancer/fard-loop/blob/main/fard.pl) - [Perl](https://en.wikipedia.org/wiki/Perl)
+- [.png](https://github.com/espmancer/fard-loop/blob/main/fard.png) - [Piet](https://esolangs.org/wiki/Piet)
 - [.ps1](https://github.com/espmancer/fard-loop/blob/main/fard.ps1) - [Powershell](https://en.m.wikipedia.org/wiki/PowerShell)  
 - [.py](https://github.com/espmancer/fard-loop/blob/main/fard.py) - [Python](https://en.wikipedia.org/wiki/Python_(programming_language))  
 - [.r](https://github.com/espmancer/fard-loop/blob/main/fard.r) - [R](https://en.wikipedia.org/wiki/R_(programming_language))  
@@ -85,4 +86,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 ## Language Counter
 This was counted using the command `git ls-files | wc -l` and subtracting 1 (for README), found [here](https://stackoverflow.com/questions/9468970/how-to-get-a-count-of-all-the-files-in-a-git-repository).  
-82 Programming Languages - All which infinitely loop fard (*sigh*)
+83 Programming Languages - All which infinitely loop fard (*sigh*)
