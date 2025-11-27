@@ -16,7 +16,8 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - [.ben](https://github.com/espmancer/fard-loop/blob/main/fard.ben) - [Benf\*ck](https://github.com/Craftyman6/BenFuck)  
 - [.bf](https://github.com/espmancer/fard-loop/blob/main/fard.bf) - [Brainf\*ck](https://en.m.wikipedia.org/wiki/Brainfuck)  
 - [.brat](https://github.com/espmancer/fard-loop/blob/main/fard.brat) - [Brat](https://github.com/presidentbeef/brat)  
-- [.c](https://github.com/espmancer/fard-loop/blob/main/fard.c) - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)  
+- [.c](https://github.com/espmancer/fard-loop/blob/main/fard.c) - [C](https://en.wikipedia.org/wiki/The_C_Programming_Language)
+- [.cal](https://github.com/espmancer/fard-loop/blob/main/fard.cal) - [Callisto](https://callisto.mesyeti.uk/)
 - [.chpl](https://github.com/espmancer/fard-loop/blob/main/fard.chpl) - [Chapel](https://chapel-lang.org/docs/index.html)  
 - [.clj](https://github.com/espmancer/fard-loop/blob/main/fard.clj) - [Clojure](https://en.wikipedia.org/wiki/Clojure)  
 - [.cob](https://github.com/espmancer/fard-loop/blob/main/fard.cob) - [COBOL](https://en.wikipedia.org/wiki/COBOL)  
@@ -86,4 +87,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 ## Language Counter
 This was counted using the command `git ls-files | wc -l` and subtracting 1 (for README), found [here](https://stackoverflow.com/questions/9468970/how-to-get-a-count-of-all-the-files-in-a-git-repository).  
-83 Programming Languages - All which infinitely loop fard (*sigh*)
+84 Programming Languages - All which infinitely loop fard (*sigh*)
