@@ -66,7 +66,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - [.re](https://github.com/espmancer/fard-loop/blob/main/fard.re) - [Reason](https://reasonml.github.io/en/)  
 - [.rks](https://github.com/espmancer/fard-loop/blob/main/fard.rks) - [RKS-16 Assembly](https://github.com/kryllyxofficial01/RKS-16)  
 - [.rkt](https://github.com/espmancer/fard-loop/blob/main/fard.rkt) - [Racket](https://racket-lang.org/)
-- [.rock](https://github.com/espmancer/fard-loop/blob/main/fard.rock) - [Rockstart](https://codewithrockstar.com/)
+- [.rock](https://github.com/espmancer/fard-loop/blob/main/fard.rock) - [Rockstar](https://codewithrockstar.com/)
 - [.rs](https://github.com/espmancer/fard-loop/blob/main/fard.rs) - [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))  
 - [.s](https://github.com/espmancer/fard-loop/blob/main/fard.s) - [x86 Assembly](https://en.m.wikipedia.org/wiki/X86_assembly_language)  
 - [.sb3](https://github.com/espmancer/fard-loop/blob/main/fard.sb3) - [Scratch](https://scratch.mit.edu/)  
