@@ -30,6 +30,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - [.dart](https://github.com/espmancer/fard-loop/blob/main/fard.dart) - [Dart](https://en.wikipedia.org/wiki/Dart_(programming_language))  
 - [.el](https://github.com/espmancer/fard-loop/blob/main/fard.el) - [Emacs Lisp](https://en.m.wikipedia.org/wiki/Emacs_Lisp)  
 - [.ew](https://github.com/espmancer/fard-loop/blob/main/fard.ew) - [Euphoria](https://en.wikipedia.org/wiki/Euphoria_(programming_language))  
+- [.fard](https://github.com/espmancer/fard-loop/blob/main/fard.fard) - [Fardthon](https://github.com/espmancer/fardthon)
 - [.f90](https://github.com/espmancer/fard-loop/blob/main/fard.f90) - [Fortran](https://rosettacode.org/wiki/Category:Fortran)  
 - [.fet](https://github.com/espmancer/fard-loop/blob/main/fard.fet) - [Fetlang](https://github.com/fetlang/fetlang)  
 - [.fs](https://github.com/espmancer/fard-loop/blob/main/fard.fs) - [F#](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))  
@@ -88,4 +89,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 ## Language Counter
 This was counted using the command `git ls-files | wc -l` and subtracting 1 (for README), found [here](https://stackoverflow.com/questions/9468970/how-to-get-a-count-of-all-the-files-in-a-git-repository).  
-85 Programming Languages - All which infinitely loop fard (*sigh*)
+86 Programming Languages - All which infinitely loop fard (*sigh*)
