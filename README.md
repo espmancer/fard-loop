@@ -50,6 +50,7 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 - [.m](https://github.com/espmancer/fard-loop/blob/main/fard.m) - [Objective-C](https://en.wikipedia.org/wiki/Objective-C)  
 - [.magik](https://github.com/espmancer/fard-loop/blob/main/fard.magik) - [Magik](https://en.wikipedia.org/wiki/Magik_(programming_language))  
 - [Makefile](https://github.com/espmancer/fard-loop/blob/main/Makefile) - [Makefile](https://www.gnu.org/software/make/manual/make.html)  
+- [.mid](https://github.com/espmancer/fard-loop/blob/main/fard.mid) - [Velato](https://velato.net)
 - [.mli](https://github.com/espmancer/fard-loop/blob/main/fard.mli) - [OCaml](https://ocaml.org/)  
 - [.mysql](https://github.com/espmancer/fard-loop/blob/main/fard.mysql) - [MySQL](https://www.mysql.com/)  
 - [.nim](https://github.com/espmancer/fard-loop/blob/main/fard.nim) - [Nim](https://en.wikipedia.org/wiki/Nim_(programming_language))  
@@ -89,4 +90,4 @@ Create an infinite loop that outputs "fard" in every coding language possible. F
 
 ## Language Counter
 This was counted using the command `git ls-files | wc -l` and subtracting 1 (for README), found [here](https://stackoverflow.com/questions/9468970/how-to-get-a-count-of-all-the-files-in-a-git-repository).  
-86 Programming Languages - All which infinitely loop fard (*sigh*)
+87 Programming Languages - All which infinitely loop fard (*sigh*)
