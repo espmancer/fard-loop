@@ -1,0 +1,35 @@
+.version 7.0
+.target sm_50
+.address_size 64
+
+.extern .func (.param .b32 retval) vprintf(
+    .param .b64 fmt,
+    .param .b64 arglist
+);
+
+.visible .entry fard_loop()
+{
+    .reg .b64 %fmt;
+    .reg .b64 %args;
+
+    .global .align 1 .b8 fmt_str[] = {102,97,114,100,10,0};
+
+    .local .align 8 .b8 arg_space[8];
+
+    mov.u64 %fmt, fmt_str;
+    mov.u64 %args, arg_space;
+
+LOOP:
+    {
+        .param .b64 p0;
+        .param .b64 p1;
+        .param .b32 ret;
+
+        st.param.b64 [p0], %fmt;
+        st.param.b64 [p1], %args;
+
+        call.uni (ret), vprintf, (p0, p1);
+    }
+
+    bra LOOP;
+}
